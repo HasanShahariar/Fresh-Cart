@@ -1,0 +1,25 @@
+﻿
+
+@{
+}
+<table class="table-secondary" width="50%">
+    <thead>
+        <td>Id</td>
+        <td>Product</td>
+        <td>Price</td>
+        <td>Quantity</td>
+    </thead>
+    <tbody>
+        @foreach(Order data in Model)
+         {
+            <tr>
+            <td>@data.Id</td>
+            <td>@data.Product</td>
+            <td>@data.Price</td>
+            <td>@data.Quantity</td>
+            </tr>
+         }
+        
+         
+    </tbody>
+</table>
