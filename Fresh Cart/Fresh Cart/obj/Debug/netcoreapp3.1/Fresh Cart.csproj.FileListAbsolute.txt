@@ -1,0 +1,80 @@
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\appsettings.json
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Fresh Cart.exe
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Fresh Cart.deps.json
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Fresh Cart.runtimeconfig.json
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Fresh Cart.runtimeconfig.dev.json
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Fresh Cart.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Fresh Cart.pdb
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Fresh Cart.Views.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Fresh Cart.Views.pdb
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Fresh Cart.csprojAssemblyReference.cache
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Fresh Cart.AssemblyInfoInputs.cache
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Fresh Cart.AssemblyInfo.cs
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Fresh Cart.csproj.CoreCompileInputs.cache
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Fresh Cart.MvcApplicationPartsAssemblyInfo.cache
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Fresh Cart.RazorAssemblyInfo.cache
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Fresh Cart.RazorAssemblyInfo.cs
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\staticwebassets\Fresh Cart.StaticWebAssets.Manifest.cache
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\staticwebassets\Fresh Cart.StaticWebAssets.xml
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\scopedcss\bundle\Fresh Cart.styles.css
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Fresh Cart.TagHelpers.input.cache
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Fresh Cart.TagHelpers.output.cache
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Fresh Cart.RazorCoreGenerate.cache
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Fresh Cart.RazorTargetAssemblyInfo.cache
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Fresh Cart.RazorTargetAssemblyInfo.cs
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Fresh Cart.Views.pdb
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Fresh Cart.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Fresh Cart.pdb
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Fresh Cart.genruntimeconfig.cache
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Fresh Cart.csproj.CopyComplete
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
+F:\MVC Cart\Fresh Cart\Fresh Cart\obj\Debug\netcoreapp3.1\Razor\Views\Order\Create.cshtml.g.cs
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\MVC Cart\Fresh Cart\Fresh Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
